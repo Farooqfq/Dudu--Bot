@@ -91,9 +91,9 @@ async def next_page(bot, query):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/AximMovies'),
-            InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/opusTechz'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/MWUpdatez')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+1bt_lnz3JoQxMzBl'),
+            InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='http://youtube.com/channel/UC5atLoFND7z0YnBEXzLn6EA'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/+CuPJ3sUhxexiYzU9')
         ]
     )
    
