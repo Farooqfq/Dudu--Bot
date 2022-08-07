@@ -378,16 +378,15 @@ def humanbytes(size):
     return str(round(size, 2)) + " " + Dic_powerN[n] + 'B'
 
 
-
-async def get_shortlink(link):
-    https = link.split(":")[0]
-    if "http" == https:
-        https = "https"
-        link = link.replace("http", https)
-    url = f'https://du-link.in/api'
-    params = {'api': '453bae6d750e7ecdb5c3c0aa72d57bef671d0ecc',
-              'url': link,
-              }
+$long_url = urlencode('yourdestinationlink.com');
+$api_token = '2af116adaa4d4241d3e5bbad1dc919bad0b8b9b1';
+$api_url = "https://shorturllink.in/api?api={$api_token}&url={$long_url}&alias=CustomAlias";
+$result = @json_decode(file_get_contents($api_url),TRUE);
+if($result["status"] === 'error') {
+ echo $result["message"];
+} else {
+ echo $result["shortenedUrl"];
+}
 
     async with aiohttp.ClientSession() as session:
         async with session.get(url, params=params, raise_for_status=True, ssl=False) as response:
