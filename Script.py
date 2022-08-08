@@ -31,14 +31,14 @@ Name - {}
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
 <b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>"""
 
-    ABOUT_TXT = """<b>✮ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>
+    ABOUT_TXT = """<b>✮ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Xdiskpk>Farooq</a></b>
 <b>✮ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 <b>✮ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 𝟹</b>
 <b>✮ ᴅᴀᴛᴀʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ</b>
 <b>✮ sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 <b>✮ ʙᴜɪʟᴅ sᴛᴀᴛs : 𝚅4.7[sᴛᴀʙʟᴇ]</b>
-<b>✮ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/MWUpdatez>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</a></b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/OpusTechz>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>"""
+<b>✮ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Xdiskpk>Farooq</a></b>
+<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=http://youtube.com/channel/UC5atLoFND7z0YnBEXzLn6EA>Fc Telugu</a></b>"""
 
     HELP_TXT = """ʜᴇʏ {}
 ʜᴇʀᴇ ɪs ᴍʏ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs."""
