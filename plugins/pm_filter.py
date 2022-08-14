@@ -107,7 +107,7 @@ async def next_page(bot, query):
     # How to Download button
 
     btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/Movie_files_fq_bot?start=ZmlsZV9CQUFEQlFBREpRZ0FBdTZXSUZZSUhDaG16ZW9mTkJZRQ')]
+    [InlineKeyboardButton(text="🤨మూవీ ఎలా చూడాలి🧐", url='https://t.me/fq_download_issues/17')]
 )
     if n_offset == 0:
         btn.append(
