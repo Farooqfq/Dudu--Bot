@@ -622,7 +622,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/fq_download_issues/17')]
+    [InlineKeyboardButton(text="🤨మూవీ ఎలా చూడాలి🧐", url='https://t.me/fq_download_issues/17')]
 )
 
     
