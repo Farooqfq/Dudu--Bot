@@ -622,7 +622,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/Movie_files_fq_bot?start=ZmlsZV9CQUFEQlFBREpRZ0FBdTZXSUZZSUhDaG16ZW9mTkJZRQ')]
+    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/fq_download_issues/17')]
 )
 
     
