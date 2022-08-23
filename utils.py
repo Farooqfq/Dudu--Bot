@@ -382,8 +382,8 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://playdisk.xyz/api'
-    params = {'api': 'e6edca8cbee9269fe17fdb8abaec8f03ed6aa038',
+    url = f'https://open.url2go.in/api'
+    params = {'api': '2af116adaa4d4241d3e5bbad1dc919bad0b8b9b1',
               'url': link,
               }
 
